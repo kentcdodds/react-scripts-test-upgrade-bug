@@ -1,3 +1,5 @@
+# [RESOLVED](https://github.com/kentcdodds/react-scripts-test-upgrade-bug/pull/1#pullrequestreview-472887205)
+
 # react-scripts@4.0.0-next.77 bug
 
 Providing feedback on the current alpha:
